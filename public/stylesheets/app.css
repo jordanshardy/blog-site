@@ -1,3 +1,11 @@
 .container.main{
     margin-top: 5.0em;
 }
+
+#delete{
+    display: inline;
+}
+
+#edit{
+    width: 120px;
+}
